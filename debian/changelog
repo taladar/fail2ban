@@ -1,3 +1,10 @@
+fail2ban (0.10.2-2.1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * Fix path in call of tests for stretch, jessie builds
+
+ -- Matthias Hörmann <mhoermann@saltation.de>  Fri, 27 Jul 2018 14:00:40 +0200
+
 fail2ban (0.10.2-2) unstable; urgency=medium
 
   [ Arturo Borrero Gonzalez ]
